@@ -1,0 +1,31 @@
+#!/usr/bin/env bash
+#
+# sistema_de_usuarios.sh - Sistema para gerenciamento de usuários
+#
+# Autor:      Mateus Lippi
+# Manutenção: Mateus Lippi
+#
+# ------------------------------------------------------------------------ #
+#  Este programa faz todas as funções de gerenciamento de usuários, como:
+#  inserir, deletar, alterar.
+#
+#  Exemplos:
+#      $ source sistama_de_usuarios.sh
+#      $ ListaUsuarios
+# ------------------------------------------------------------------------ #
+# Histórico:
+#
+#   v1.0 05/10/2022, Mateus:
+# ------------------------------------------------------------------------ #
+# Testado em:
+#   bash 5.1.16(1)-release
+#-----------------------VARIÁVEIS----------------------------------------- #
+
+
+#-----------------------TESTES-------------------------------------------- #
+
+
+#-----------------------FUNÇÕES------------------------------------------- #
+
+
+#-----------------------EXECUÇÃO------------------------------------------ #
